@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "Name": "Mobile",
+      "Price": 20000
+    },
+    {
+      "id": 2,
+      "Name": "camera",
+      "Price": 50000
+    },
+    {
+      "id": 3,
+      "Name": "laptop",
+      "Price": 80000
+    },
+    {
+      "id": 4,
+      "Name": "mouse",
+      "Price": "600"
+    },
+    {
+      "id": 5,
+      "Name": "headphones",
+      "Price": "5000"
+    },
+    {
+      "id": 6,
+      "Name": "Book",
+      "Price": "50",
+      "brand": "ClassMate",
+      "origin": "ITC"
+    },
+    {
+      "id": 7,
+      "Name": "Pen",
+      "Price": "25",
+      "brand": "Cello",
+      "origin": "India"
+    },
+    {
+      "id": 8,
+      "Name": "USB Cable",
+      "Price": "800",
+      "brand": "OnePlus",
+      "origin": "China",
+      "stock": "58"
+    },
+    {
+      "id": 9,
+      "Price": "$200",
+      "Name": "Flash Light",
+      "brand": "Cello",
+      "origin": "India",
+      "stock": "45"
+    }
+  ]
+}
